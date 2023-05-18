@@ -17,7 +17,7 @@
   * [Growing Aggregates](microsservicos/vas-value-added-services/growing-aggregates.md)
   * [Commands](microsservicos/vas-value-added-services/commands.md)
   * [Separation of Queries and Commands](microsservicos/vas-value-added-services/separation-of-queries-and-commands.md)
-  * [Separation of Queries and Commands](microsservicos/vas-value-added-services/separation-of-queries-and-commands-1.md)
+  * [Beyond Core Entities: Domain Gateways](microsservicos/vas-value-added-services/beyond-core-entities-domain-gateways.md)
 
 ## 🔗 Link úteis
 
