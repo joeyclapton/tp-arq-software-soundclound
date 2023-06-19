@@ -22,3 +22,4 @@
 ## 🔗 Link úteis
 
 * [Referências](link-uteis/referencias.md)
+* [Autores](link-uteis/autores.md)
